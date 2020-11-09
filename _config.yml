@@ -81,7 +81,7 @@ html_escape:
 
 # Everything below here should be left alone. Modifications may break fastpages
 future: true
-#theme: minimal-mistakes-jekyll
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   - jekyll-gist
@@ -101,7 +101,7 @@ plugins:
 paginate: 15
 paginate_path: /page:num/
 
-remote_theme: mmistakes/minimal-mistakes@4.21.0
+#remote_theme: mmistakes/minimal-mistakes@4.21.0
 
 titles_from_headings:
   enabled:     true
