@@ -24,7 +24,7 @@ group :jekyll_plugins do
   gem 'jekyll-gist'
   gem 'jekyll-paginate'
   gem 'jekyll-sitemap'
-  gem 'github-pages'
+  gem 'jekyll', '~> 3.5'
   gem 'jekyll-include-cache'
 end
 
