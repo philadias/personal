@@ -1,6 +1,9 @@
 ---
 toc: true
 layout: post
+classes:
+ - landing 
+ - dark-theme
 description: A minimal example of using markdown with fastpages.
 categories: [markdown]
 title: An Example Markdown Post
