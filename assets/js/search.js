@@ -9,7 +9,7 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Personal webpage</title>
+<!-- begin _includes/seo.html --><title>Philipe Dias</title>
 <meta name="description" content="My codes, papers, CV and some random thoughts.">
 
 
@@ -19,8 +19,8 @@
 
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_US">
-<meta property="og:site_name" content="Personal webpage">
-<meta property="og:title" content="Personal webpage">
+<meta property="og:site_name" content="Philipe Dias">
+<meta property="og:title" content="Philipe Dias">
 <meta property="og:url" content="https://philadias.github.io/personal/assets/js/search.js">
 
 
@@ -65,7 +65,7 @@
 <!-- end _includes/seo.html -->
 
 
-<link href="/personal/feed.xml" type="application/atom+xml" rel="alternate" title="Personal webpage Feed">
+<link href="/personal/feed.xml" type="application/atom+xml" rel="alternate" title="Philipe Dias Feed">
 
 <!-- https://t.co/dKP3o1e -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -125,7 +125,7 @@
       <nav id="site-nav" class="greedy-nav">
         
         <a class="site-title" href="/personal/">
-          Personal webpage
+          Philipe Dias
           
         </a>
         <ul class="visible-links"></ul>
