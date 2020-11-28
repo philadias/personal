@@ -29,6 +29,7 @@ group :jekyll_plugins do
 end
 
 #gem "kramdown-math-katex"
+gem "kramdown-parser-gfm"
 gem "jemoji"
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
