@@ -3,6 +3,7 @@ layout: single
 title: Publications
 classes:
   - dark-theme
+  - wide
 permalink: /publications/
 sidebar:
   - title: "Title"
