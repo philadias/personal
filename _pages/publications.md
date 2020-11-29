@@ -22,3 +22,11 @@ Publications are listed below in reverse chronological order.
 - DIAS, P. A.; TABB, A.; MEDEIROS, H. “Multispecies Fruit Flower Detection Using a Refined Semantic Segmentation Network” IEEE Robotics and Automation Letters, vol. 3, no. 4, 2018.
 - DIAS, P.A.; TABB, A.; MEDEIROS H.;”Apple flower detection using deep convolutional networks,” Computers in Industry, vol. 99, 2018.
 - DIAS, P. A.; MEDEIROS, H.; ODONE, F; “Fine segmentation for Activity of Daily Living analysis in a wide-angle multi-camera set-up,” 5th Activity Monitoring by Multiple Distributed Sensing Workshop (AMMDS) in conjunction with British Machine Vision Conference, 2017.
+
+### 2019
+
+{% bibliography --query @*[year=2019] %}
+
+### 2018
+
+{% bibliography --query @*[year=2018] %}
