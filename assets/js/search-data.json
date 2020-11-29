@@ -340,7 +340,7 @@
   
       ,"page7": {
           "title": "Publications",
-          "content": "Publications are listed below in reverse chronological order. . DIAS, P. A.; MALAFRONTE, D.; MEDEIROS, H; ODONE, F. “Gaze Estimation for Assisted Living Environments,” Winter Conference on Applications of Computer Vision (WACV), 2020. | DIAS, P. A.; TABB, A.; MEDEIROS, H. “FreeLabel: A Publicly Available Annotation Tool based on Freehand Traces,” Winter Conference on Applications of Computer Vision (WACV), 2019. | DIAS, P. A.; MEDEIROS, H. “Semantic Segmentation Refinement by Monte Carlo Region Growing of High Confidence Detections,” Asian Conference on Computer VIsion (ACCV), 2018. | DIAS, P. A.; TABB, A.; MEDEIROS, H. “Multispecies Fruit Flower Detection Using a Refined Semantic Segmentation Network” IEEE Robotics and Automation Letters, vol. 3, no. 4, 2018. | DIAS, P.A.; TABB, A.; MEDEIROS H.;”Apple flower detection using deep convolutional networks,” Computers in Industry, vol. 99, 2018. | DIAS, P. A.; MEDEIROS, H.; ODONE, F; “Fine segmentation for Activity of Daily Living analysis in a wide-angle multi-camera set-up,” 5th Activity Monitoring by Multiple Distributed Sensing Workshop (AMMDS) in conjunction with British Machine Vision Conference, 2017. | . 2019 . bibliographyDetails | . 2018 . bibliographyDetails | bibliographyDetails | bibliographyDetails | bibliographyDetails | .",
+          "content": "Publications are listed below in reverse chronological order. . DIAS, P. A.; MALAFRONTE, D.; MEDEIROS, H; ODONE, F. “Gaze Estimation for Assisted Living Environments,” Winter Conference on Applications of Computer Vision (WACV), 2020. | DIAS, P. A.; TABB, A.; MEDEIROS, H. “FreeLabel: A Publicly Available Annotation Tool based on Freehand Traces,” Winter Conference on Applications of Computer Vision (WACV), 2019. | DIAS, P. A.; MEDEIROS, H. “Semantic Segmentation Refinement by Monte Carlo Region Growing of High Confidence Detections,” Asian Conference on Computer VIsion (ACCV), 2018. | DIAS, P. A.; TABB, A.; MEDEIROS, H. “Multispecies Fruit Flower Detection Using a Refined Semantic Segmentation Network” IEEE Robotics and Automation Letters, vol. 3, no. 4, 2018. | DIAS, P.A.; TABB, A.; MEDEIROS H.;”Apple flower detection using deep convolutional networks,” Computers in Industry, vol. 99, 2018. | DIAS, P. A.; MEDEIROS, H.; ODONE, F; “Fine segmentation for Activity of Daily Living analysis in a wide-angle multi-camera set-up,” 5th Activity Monitoring by Multiple Distributed Sensing Workshop (AMMDS) in conjunction with British Machine Vision Conference, 2017. | .",
           "url": "https://philadias.github.io/personal/publications/",
           "relUrl": "/publications/",
           "date": ""
@@ -359,76 +359,13 @@
   
 
   
-      ,"page12": {
-          "title": "Gaze Estimation for Assisted Living Environments",
-          "content": "—Natascha McElhone . BibTeX | . .",
-          "url": "https://philadias.github.io/personal/bibliography/dias_gaze_2020/",
-          "relUrl": "/bibliography/dias_gaze_2020/",
-          "date": ""
-      }
-      
   
 
   
-      ,"page13": {
-          "title": "FreeLabel: A Publicly Available Annotation Tool based on Freehand Traces",
-          "content": "—Natascha McElhone . BibTeX | . .",
-          "url": "https://philadias.github.io/personal/bibliography/dias_freelabel_2018/",
-          "relUrl": "/bibliography/dias_freelabel_2018/",
-          "date": ""
-      }
-      
   
 
   
       ,"page14": {
-          "title": "Fine segmentation for Activity of Daily Living analysis in a wide-angle multi-camera set-up",
-          "content": "—Natascha McElhone . BibTeX | . .",
-          "url": "https://philadias.github.io/personal/bibliography/dias_fine_2018/",
-          "relUrl": "/bibliography/dias_fine_2018/",
-          "date": ""
-      }
-      
-  
-
-  
-      ,"page15": {
-          "title": "Semantic Segmentation Refinement by Monte Carlo Region Growing of High Confidence Detections",
-          "content": "—Natascha McElhone . BibTeX | . .",
-          "url": "https://philadias.github.io/personal/bibliography/dias_rgr_2018/",
-          "relUrl": "/bibliography/dias_rgr_2018/",
-          "date": ""
-      }
-      
-  
-
-  
-      ,"page16": {
-          "title": "Multispecies Fruit Flower Detection Using a Refined Semantic Segmentation Network",
-          "content": "—Natascha McElhone . BibTeX | . .",
-          "url": "https://philadias.github.io/personal/bibliography/dias_multispecies_2018/",
-          "relUrl": "/bibliography/dias_multispecies_2018/",
-          "date": ""
-      }
-      
-  
-
-  
-      ,"page17": {
-          "title": "Apple flower detection using deep convolutional networks",
-          "content": "—Natascha McElhone . BibTeX | . .",
-          "url": "https://philadias.github.io/personal/bibliography/dias_apple_2018/",
-          "relUrl": "/bibliography/dias_apple_2018/",
-          "date": ""
-      }
-      
-  
-
-  
-  
-
-  
-      ,"page19": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://philadias.github.io/personal/robots.txt",
@@ -436,9 +373,6 @@
           "date": ""
       }
       
-  
-
-  
   
 
 }
