@@ -26,7 +26,6 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jekyll', '~> 3.5'
   gem 'jekyll-include-cache'
-  gem 'jekyll-scholar'
 end
 
 #gem "kramdown-math-katex"
