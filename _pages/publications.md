@@ -3,7 +3,7 @@ layout: single
 title: Publications
 classes:
   - dark-theme
-permalink: /about/
+permalink: /publications/
 sidebar:
   - title: "Title"
     image: http://placehold.it/350x250
