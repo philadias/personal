@@ -4,4 +4,16 @@ var store = [{
         "tags": [],
         "url": "https://philadias.github.io/personal/jupyter/test/",
         "teaser": null
+      },{
+        "title": "My reflections on 2020",
+        "excerpt":"Reflections on 2020 I see holidays as a great opportunity to revisit and learn about the corresponding historical events. So New Year’s Eve offers an opportunity to revisit what happened during the ending year. A lot of good things happened for me in 2020. It was another year where my...","categories": ["markdown"],
+        "tags": [],
+        "url": "https://philadias.github.io/personal/markdown/reflections2020/",
+        "teaser": null
+      },{
+        "title": "Minhas reflexões sobre 2020",
+        "excerpt":"Reflexões sobre 2020 Vejo datas comemorativas como uma grande oportunidade para revisitar e aprender sobre os eventos históricos às quais estão associadas. No caso do ano novo, acho que é uma oportunidade para revisitar o que aconteceu no ano que se encerra. Muitas coisa boas aconteceram para mim em 2020....","categories": ["markdown"],
+        "tags": [],
+        "url": "https://philadias.github.io/personal/markdown/reflexoes2020/",
+        "teaser": null
       }]
