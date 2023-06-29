@@ -9,7 +9,6 @@ categories: [reflections]
 title: Trillion Pixel GeoAI Challenge Workshop
 ---
 
-
 Last week I had the privilege to participate as a panelist in the "Trillion-Pixel GeoAI Challenge” Workshop hosted at ORNL. A quite unique aspect of this workshop is the presence of experts from academia, national laboratories, large private sector companies such as NVIDIA/IBM, startups, data providers such as Planet/Maxar/Umbra, as well as government agencies such as NASA, NGA, USGS and DHS. 
 
 It has been about 2 years since I started my “migration” to the GeoAI domain, where the expertise on AI and Computer Vision techniques that I’ve been gathering over my career has been meeting the remote sensing and geospatial data analysis domains. As such, it was very fulfilling to engage in face-to-face conversations with some of the greatest researchers and organizations in this domain. 
